@@ -1,5 +1,8 @@
 # tesis
 
-getCaption_friends.py, getCaption_food.py, get_Caption_activity.py, and getCaption_caption.py are used to crawl URL image link and caption of each photo until 50 photos (hardcoded) of Instagram users. 
+Objective: To crawl URL image link and caption of certain number of Instagram users that have been determined. 
 
-API Instagram is used here. 
+input: Instagram username 
+output: Image captions and Image URL Link. 
+
+=ARI KUNCORO

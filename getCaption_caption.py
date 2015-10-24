@@ -6,9 +6,10 @@ import sys
 import numpy
 import time 
 
-client_id = 'ccc83b59127e49abb5169df4b815fb73'
-client_secret = '3064f663f15b43bfb8ea9afa000d7a6c'
-access_token = '261673262.ccc83b5.0632f8626ca34630bd660e279a36f304'
+client_id = ''
+client_secret = ''
+access_token = ''
+
 
 api = InstagramAPI(client_id=client_id, client_secret=client_secret,access_token= access_token)
 
